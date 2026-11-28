@@ -1,0 +1,23 @@
+title: 인사하기
+emoji: 👋
+
+Bubbles: Hi, {name}! I'm Bubbles. | 안녕, {name}! 나는 Bubbles야.
+* Hi, Bubbles! | 안녕, Bubbles! => Nice to meet you! | 만나서 반가워!
+* Hello! | 안녕! => Nice to meet you! | 만나서 반가워!
+
+Bubbles: How are you today? | 오늘 기분 어때?
+* I'm happy! | 기뻐! => Yay! I'm happy too! | 야호! 나도 기뻐!
+* I'm good. | 좋아. => That's great! | 잘됐다!
+* I'm tired. | 피곤해. => Oh no! Let's have fun together. | 저런! 같이 재밌게 놀자.
+
+Bubbles: How old are you? | 너는 몇 살이야?
+* I'm seven. | 일곱 살이야. => Wow, seven! | 우와, 일곱 살!
+* I'm eight. | 여덟 살이야. => Wow, eight! | 우와, 여덟 살!
+* I'm nine. | 아홉 살이야. => Wow, nine! | 우와, 아홉 살!
+
+Bubbles: What color do you like? | 무슨 색을 좋아해?
+* I like red. | 빨간색을 좋아해. => Red like an apple! 🍎 | 사과처럼 빨간색!
+* I like blue. | 파란색을 좋아해. => Blue like the sky! 🌈 | 하늘처럼 파란색!
+* I like pink. | 분홍색을 좋아해. => Pink like a flower! 🌸 | 꽃처럼 분홍색!
+
+end: Great job, {name}! See you tomorrow! | 잘했어, {name}! 내일 또 만나!

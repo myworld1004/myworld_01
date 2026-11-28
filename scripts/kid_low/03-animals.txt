@@ -1,0 +1,20 @@
+title: 동물
+emoji: 🐶
+
+Bubbles: Hi, {name}! Do you like animals? | 안녕, {name}! 동물 좋아해?
+* Yes, I do! | 응, 좋아해! => Me too! I love animals. | 나도! 동물 정말 좋아해.
+* A little. | 조금. => Okay! Let's meet some animals. | 그래! 동물 친구들을 만나 보자.
+
+Bubbles: Do you like cats or dogs? | 고양이가 좋아, 강아지가 좋아?
+* I like cats. | 고양이가 좋아. => Meow! 🐱 | 야옹!
+* I like dogs. | 강아지가 좋아. => Woof woof! 🐶 | 멍멍!
+
+Bubbles: What animal is big? | 어떤 동물이 커?
+* An elephant is big. | 코끼리는 커. => Yes! Elephants are very big! 🐘 | 맞아! 코끼리는 아주 커!
+* A giraffe is big. | 기린은 커. => Yes! Giraffes are so tall! 🦒 | 맞아! 기린은 키가 아주 커!
+
+Bubbles: What animal can fly? | 어떤 동물이 날 수 있어?
+* A bird can fly. | 새는 날 수 있어. => Right! Birds can fly high! 🐦 | 맞아! 새는 높이 날아!
+* A butterfly can fly. | 나비는 날 수 있어. => Right! Butterflies are pretty! 🦋 | 맞아! 나비는 예뻐!
+
+end: You know so many animals, {name}! | {name}, 동물을 정말 많이 아는구나!

@@ -10,7 +10,7 @@
    ```bash
    npm install
    ```
-3. **API 키 넣기**
+3. **(선택) API 키 넣기**: 저학년 대본형 대화는 키 없이 바로 쓸 수 있어요. 고학년·부모님의 AI 자유 대화를 쓸 때만 필요합니다.
    - https://platform.claude.com 에서 API 키를 발급받습니다.
    - `.env.example` 파일을 복사해서 이름을 `.env.local` 로 바꾸고, `ANTHROPIC_API_KEY=` 뒤에 키를 붙여 넣습니다.
    - `.env.local` 은 GitHub에 올라가지 않으니 안심하세요. 키는 절대 다른 파일에 적지 마세요.
@@ -24,7 +24,9 @@
 
 | 파일 | 하는 일 |
 |---|---|
-| `src/app/page.tsx` | 화면 (시작 화면 + 대화 화면) |
+| `scripts/kid_low/*.txt` | **저학년 대본.** 쓰는 법은 [scripts/README.md](scripts/README.md) |
+| `src/components/FamilyTalk.tsx` | 시작 화면 + AI 대화 화면 |
+| `src/components/ScriptChat.tsx` | 대본형 대화 화면 |
 | `src/app/api/chat/route.ts` | 서버에서 Claude API를 호출하는 부분 |
 | `src/lib/levels.ts` | **레벨별 AI 말투와 주제 목록.** AI 대답이 마음에 안 들면 여기를 고치면 돼요 |
 | `docs/planning.md` | 기획서 |

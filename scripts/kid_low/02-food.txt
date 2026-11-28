@@ -1,0 +1,21 @@
+title: 음식
+emoji: 🍕
+
+Bubbles: Hi, {name}! Are you hungry? | 안녕, {name}! 배고프니?
+* Yes, I am! | 응, 배고파! => Me too! Let's talk about food. | 나도! 음식 얘기하자.
+* No, I'm not. | 아니, 안 고파. => Okay! Let's talk about food anyway. | 그래! 그래도 음식 얘기하자.
+
+Bubbles: Do you like pizza or rice? | 피자가 좋아, 밥이 좋아?
+* I like pizza. | 피자가 좋아. => Pizza is yummy! 🍕 | 피자 맛있지!
+* I like rice. | 밥이 좋아. => Rice is great! 🍚 | 밥 최고!
+
+Bubbles: What fruit do you like? | 무슨 과일 좋아해?
+* I like apples. | 사과를 좋아해. => Apples are sweet! 🍎 | 사과는 달콤해!
+* I like bananas. | 바나나를 좋아해. => Bananas are yummy! 🍌 | 바나나 맛있지!
+* I like strawberries. | 딸기를 좋아해. => Me too! 🍓 | 나도 좋아해!
+
+Bubbles: Do you like milk? | 우유 좋아해?
+* Yes, I do. | 응, 좋아해. => Milk makes you strong! 💪 | 우유 마시면 튼튼해져!
+* No, I don't. | 아니, 안 좋아해. => That's okay! How about juice? | 괜찮아! 주스는 어때?
+
+end: You are a food expert, {name}! | {name}, 너는 음식 박사구나!
