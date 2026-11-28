@@ -1,7 +1,7 @@
 # 🫧 우리 가족 영어 시간
 
 가족이 각자 AI 친구 **Bubbles**와 영어로 대화하는 연습용 웹앱입니다.
-기획 내용은 [docs/planning.md](docs/planning.md)에 있어요.
+기획 내용은 [docs/planning.md](docs/planning.md), 배포 방법은 [docs/deploy.md](docs/deploy.md)에 있어요.
 
 ## 처음 실행하기
 
